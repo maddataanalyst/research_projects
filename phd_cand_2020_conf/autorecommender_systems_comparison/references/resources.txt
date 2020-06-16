@@ -1,0 +1,17 @@
+https://towardsdatascience.com/recotour-ii-neural-recommendation-algorithms-49733938d56e
+
+[1] J. McAuley, C. Targett, J. Shi, A. van den Hengel. Image-based recommendations on styles and substitutes. SIGIR, 2015
+[2] R. He, J. McAuley. Modeling the visual evolution of fashion trends with one-class collaborative filtering. WWW, 2016
+[3] Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, Tat-Seng Chua. Neural Collaborative Filtering. arXiv:1708.05031v2. 2016
+[4] Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng and Tat-Seng Chua. Neural Graph Collaborative Filtering. SIGIR 2019. arXiv:1905.08108
+[5] Leslie N. Smith. Cyclical Learning Rates for Training Neural Networks. WACV 2017. arXiv:1506.01186
+[6] Thomas N. Kipf and Max Welling: Semi-supervised classification with
+graph convolutional networks. ICLR 2017. arXiv:1609.02907
+[7] Rianne van den Berg, Thomas N. Kipf, Max Welling. KDD 2018. arXiv:1706.02263
+[8] Steffen Rendle, Christoph Freudenthaler, Zeno Gantner, and Lars Schmidt-Thieme. 2009. BPR: Bayesian Personalized Ranking from Implicit Feedback. In UAI. 452– 461.
+[9] Liyuan Liu, Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, Jiawei Han. On the Variance of the Adaptive Learning Rate and Beyond. arXiv:1908.03265
+[10] Recommender Systems: The Textbook. Charu C. Aggarwal. Springer 2016
+[11] Steffen Rendle. Factorization Machines. ICDM ’10 Proceedings of the 2010 IEEE International Conference on Data Mining
+[12] Junwei Pan, Jian Xu, Alfonso Lobos Ruiz, Wenliang Zhao, Shengjun Pan, Yu Sun, Quan Lu. Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising. WWW 2018. arXiv:1806.03514
+[13] Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman, Tony Jebara: Variational Autoencoders for Collaborative Filtering. WWW 2018. arXiv:1802.05814
+[14] Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach: Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches. Proceedings of the 13th ACM Conference on Recommender Systems (RecSys 2019). arXiv:1907.06902
